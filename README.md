@@ -1,12 +1,15 @@
 > [!ccs]
 > Заметки по сss
 <h2 style="color: #007AFF">Font weight</h2>
-* **100** - Thin (Hairline)
-* **200** - Extra Light (Ultra Light)
-* **300** - Light
-* **400** - Regular (Normal)
-* **500** - Medium
-* **600** - Semi Bold (Demi Bold)
-* **700** - Bold
-* **800** - Extra Bold (Ultra Bold)
-* **900** - Black (Heavy)
+<ul>
+  <li><strong>100</strong> - Thin (Hairline)</li>
+  <li><strong>200</strong> - Extra Light (Ultra Light)</li>
+  <li><strong>300</strong> - Light</li>
+  <li><strong>400</strong> - Regular (Normal)</li>
+  <li><strong>500</strong> - Medium</li>
+  <li><strong>600</strong> - Semi Bold (Demi Bold)</li>
+  <li><strong>700</strong> - Bold</li>
+  <li><strong>800</strong> - Extra Bold (Ultra Bold)</li>
+  <li><strong>900</strong> - Black (Heavy)</li>
+</ul>
+

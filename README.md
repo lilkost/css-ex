@@ -1,6 +1,6 @@
 > [!ccs]
 > Заметки по сss
-## Font weight
+<h2 style="color: #007AFF">Font weight</h2>
 100 - Thin (Hairline)
 200 - Extra Light (Ultra Light)
 300 - Light

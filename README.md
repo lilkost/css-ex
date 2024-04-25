@@ -12,4 +12,5 @@
   <li><strong>800</strong> - Extra Bold (Ultra Bold)</li>
   <li><strong>900</strong> - Black (Heavy)</li>
 </ul>
-
+<h2 style="color: #007AFF">will-change: transform;</h2>
+<p>Свойство для использования при трансформе</p>

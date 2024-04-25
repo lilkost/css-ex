@@ -1,3 +1,6 @@
+> [!NOTE]
+> css
+## Font weight
 100 - Thin (Hairline)
 200 - Extra Light (Ultra Light)
 300 - Light

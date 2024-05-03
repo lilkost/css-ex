@@ -14,3 +14,10 @@
 </ul>
 <h2 style="color: #007AFF">will-change: transform;</h2>
 <p>Свойство для использования при трансформе</p>
+<h2 style="color: #007AFF">Cвойства для переноса через - </h2>
+<ul>
+  <li>hyphens: auto;</li>
+  <li>-moz-hyphens: auto;</li>
+  <li>-webkit-hyphens: auto;</li>
+  <li>-ms-hyphens: auto;</li>
+</ul>

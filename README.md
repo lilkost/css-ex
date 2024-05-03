@@ -26,4 +26,5 @@
 </h2>
 <p>
   animation: animationGradient 10s linear forwards infinite;
+  <a href="https://doka.guide/css/animation-iteration-count/">link</a>
 </p>

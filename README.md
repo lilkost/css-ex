@@ -21,3 +21,9 @@
   <li>-webkit-hyphens: auto;</li>
   <li>-ms-hyphens: auto;</li>
 </ul>
+<h2>
+  Gradient
+</h2>
+<p>
+  animation: animationGradient 10s linear forwards infinite;
+</p>

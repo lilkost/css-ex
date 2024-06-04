@@ -28,3 +28,14 @@
   animation: animationGradient 10s linear forwards infinite;
   <a href="https://doka.guide/css/animation-iteration-count/">link</a>
 </p>
+
+<h2>
+  Cкрыть текст точками 
+</h2>
+ <ul>
+   <li>overflow: hidden;</li>
+	<li>text-overflow: ellipsis;</li>
+	<li>display: -webkit-box;</li>
+	<li>-webkit-line-clamp: 4;</li>
+	<li>-webkit-box-orient: vertical;</li>
+ </ul>

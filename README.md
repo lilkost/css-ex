@@ -22,7 +22,7 @@
   <li>-ms-hyphens: auto;</li>
 </ul>
 <h2>
-  Gradient
+  Animation
 </h2>
 <p>
   animation: animationGradient 10s linear forwards infinite;

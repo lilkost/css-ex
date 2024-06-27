@@ -39,3 +39,19 @@
 	<li>-webkit-line-clamp: 4;</li>
 	<li>-webkit-box-orient: vertical;</li>
  </ul>
+<h2>transition</h2>
+<h3>transition: [transition-property] [transition-duration] [transition-timing-function] [transition-delay];</h3>
+<ul>
+	<li>
+		transition-property Определяет, какие свойства будут анимированы
+	</li>
+	<li>
+		transition-duration Определяет продолжительность анимации.
+	</li>
+	<li>
+		transition-timing-function Определяет скорость изменения анимируемого свойства.
+	</li>
+	<li>
+		transition-delay Определяет задержку перед началом анимации.
+	</li>
+</ul>

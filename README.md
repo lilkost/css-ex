@@ -55,3 +55,7 @@
 		transition-delay Определяет задержку перед началом анимации.
 	</li>
 </ul>
+<h2>Растянуть слайды swiper</h2>
+<p>
+	Для .swiper-wrapper устанавливаете align-items: stretch;, а для .swiper-slide height: auto; - в таком случае .swiper-slide будет растягиватся по высоте самого высокого слайда.
+</p>

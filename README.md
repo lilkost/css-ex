@@ -33,11 +33,11 @@
   Cкрыть текст точками 
 </h2>
 
-   overflow: hidden;
-	text-overflow: ellipsis;
-	display: -webkit-box;
-	-webkit-line-clamp: 4;
-	-webkit-box-orient: vertical;
+   overflow: hidden;<br>
+	text-overflow: ellipsis;<br>
+	display: -webkit-box;<br>
+	-webkit-line-clamp: 4;<br>
+	-webkit-box-orient: vertical;<br>
 
 <h2>transition</h2>
 <h3>transition: [transition-property] [transition-duration] [transition-timing-function] [transition-delay];</h3>

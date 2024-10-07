@@ -62,5 +62,6 @@
 <h2>Подвинуть линию при text-decoration</h2>
 <p>
         text-decoration: underline;<br>
-        text-underline-offset: 4px;
+        text-underline-offset: 4px; - поднять/опустить<br>
+	text-decoration-thickness: 3px; - размер
 </p>

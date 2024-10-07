@@ -59,3 +59,8 @@
 <p>
 	Для .swiper-wrapper устанавливаете align-items: stretch;, а для .swiper-slide height: auto; - в таком случае .swiper-slide будет растягиватся по высоте самого высокого слайда.
 </p>
+<h2>Подвинуть линию при text-decoration</h2>
+<p>
+        text-decoration: underline;<br>
+        text-underline-offset: 4px;
+</p>

@@ -83,3 +83,13 @@
 	    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
 	}
 </pre>
+		    
+<h2>Убрать крестик у input search</h2>
+<pre>
+	input[type="search"]::-webkit-search-decoration,
+	input[type="search"]::-webkit-search-cancel-button,
+	input[type="search"]::-webkit-search-results-button,
+	input[type="search"]::-webkit-search-results-decoration {
+		-webkit-appearance:none;
+	}
+</pre>
